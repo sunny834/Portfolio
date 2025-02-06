@@ -67,6 +67,13 @@ const Projects = () => {
                         <p>Developed in Unity 3D using C#, leveraging the engine's powerful graphics rendering, physics simulation, and scripting Capabilities</p>
                     </div>
                 </div>
+                <div className='card'>
+                    <div className="card-content">                       
+                        <a href="https://sunny-kumar.itch.io/burger-king">Burger King</a>
+                        <div className="text">Happy cozy Burger Shop</div>
+                        <p>Burger king game is cozy kitchen game made on unity and C#</p>
+                    </div>
+                </div>
                 <div className="card">
                     <div className="card-content">                       
                         <a href="#">Play</a>
@@ -88,6 +95,7 @@ const Projects = () => {
                         <p>Here is an add notes project in which we can add our stuffs to make it safe, by using HTML, CSS and Javascript.</p>
                     </div>
                 </div>
+                
                 
                 <div className="card">
                     <div className="card-content">

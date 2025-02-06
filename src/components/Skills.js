@@ -23,11 +23,25 @@ const Skills = () => {
                     <div className="bars">
                         <div className="info">
                             <span>C#</span>
-                            <span>90%</span>
+                            <span>60%</span>
                         </div>
                         <div className="line css"></div>
                     </div>
                     <div className="bars">
+                        <div className="info">
+                            <span>C++</span>
+                            <span>65%</span>
+                        </div>
+                        <div className="line js"></div>
+                    </div>
+                    <div className="bars">
+                        <div className="info">
+                            <span>Unreal Engine</span>
+                            <span>40%</span>
+                        </div>
+                        <div className="line js"></div>
+                    </div>
+                   {/* <div className="bars">
                         <div className="info">
                             <span>JavaScript</span>
                             <span>80%</span>
@@ -40,21 +54,21 @@ const Skills = () => {
                             <span>85%</span>
                         </div>
                         <div className="line php"></div>
-                    </div>
+                    </div>*/}
                     {/* <div className="bars">
                         <div className="info">
                             <span>jquery</span>
                             <span>70%</span>
                         </div>
                         <div className="line mysql"></div>
-                    </div> */}
+                    </div> 
                     <div className="bars">
                         <div className="info">
                             <span>Reactjs</span>
-                            <span>85%</span>
+                            <span>45%</span>
                         </div>
                         <div className="line react"></div>
-                    </div>
+                    </div>*/}
 
                 </div>
             </div>

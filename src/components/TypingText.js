@@ -2,7 +2,7 @@ import React from 'react';
 import Typed from 'react-typed';
 
 const TypingText = () => {
-  const typingStrings = ['YouTuber', 'Developer', 'Blogger', 'Designer', 'Freelancer'];
+  const typingStrings = [ 'Game Developr','Developer', 'Designer', 'Freelancer'];
 
   return (
     <div>
